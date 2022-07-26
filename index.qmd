@@ -1,0 +1,10 @@
+---
+title: "quarto site insights"
+format:
+  html:
+    code-tools:
+      source: false
+---
+
+This repository serves as a starting point for the quarto websites and blogs
+section of the RStudio Conf 22 workshop on rmd to quarto. 

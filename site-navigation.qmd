@@ -1,0 +1,94 @@
+---
+title: "site navigation"
+editor: visual
+---
+
+quarto site navigation is extremely flexible.
+
+## dropdown on navbar
+
+In [the quarto website](https://quarto.org/) you can see a help dropdown
+
+![](images/paste-5674B1B4.png)
+
+      navbar:
+        left:
+        - text: "Help"
+          menu:
+            - text: "Report an Issue"
+              icon: "bug"
+              href: "https://github.com/quarto-dev/quarto-cli/issues"
+            - text: "Quarto Discussions"
+              icon: "chat-right-text"
+              href: "https://github.com/quarto-dev/quarto-cli/discussions"
+            - text: "FAQ"
+              icon: "question-circle"
+              href: docs/faq/index.qmd
+
+## adding separators and unnumbered sections in sidebar
+
+In the [mlr3book](https://github.com/mlr-org/mlr3book/):
+
+![](images/paste-C07A9058.png)
+
+``` yaml
+# REPLACE ME
+```
+
+## 
+
+## Your turn
+
+Here are a couple sites from the quarto gallery that are great real-world examples of blending the settings together. We have seeded a couple bullets for notable elements to get you going.
+
+The goal of this exercise will be to connect real world examples/inspiration, the quarto docs, and your ability to implement together to strengthen your mental models and seed your deeper awareness of the capabilities of quarto.
+
+Check out a site below, study the elements and take note of some thing(s) you like. Connect that to how they implemented it, then cross reference that with additional information you can find in the quarto docs. Finally, implement it in your starter project!
+
+-   https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
+
+    -   dark/light mode
+
+    -   footer
+
+    -   blog w/ filtering
+
+    -   search
+
+    -   social elements
+
+-   https://beamilz.com/
+
+    -   hybrid "blog" and website elements
+
+    -   multiple filters for language-specific postings
+
+    -   link to external pdf (resume)
+
+    -   use of \_metadata.yml
+
+-   https://mlr3book.mlr-org.com/
+
+    -   book format + with custom html vs pdf
+
+    -   code exposure
+
+    -   custom sidebar nav
+
+    -   footers
+
+-   https://quarto.org/docs/blog/
+
+    -   left side page toc - https://quarto.org/docs/blog/posts/2022-02-17-advanced-layout/
+
+    -   subscription
+
+    -   comments
+
+-   ADVANCED: https://quarto.org/docs/guide/
+
+    -   use of custom ejs templates for dense content card layout
+
+-   https://crsl4.github.io/julia-workshop/
+
+    -   different language (julia)
