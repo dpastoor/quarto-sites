@@ -45,7 +45,7 @@ The goal of this exercise will be to connect real world examples/inspiration, th
 
 Check out a site below, study the elements and take note of some thing(s) you like. Connect that to how they implemented it, then cross reference that with additional information you can find in the quarto docs. Finally, implement it in your starter project!
 
--   https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
+-   <https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/>
 
     -   dark/light mode
 
@@ -57,7 +57,7 @@ Check out a site below, study the elements and take note of some thing(s) you li
 
     -   social elements
 
--   https://beamilz.com/
+-   <https://beamilz.com/>
 
     -   hybrid "blog" and website elements
 
@@ -67,7 +67,7 @@ Check out a site below, study the elements and take note of some thing(s) you li
 
     -   use of \_metadata.yml
 
--   https://mlr3book.mlr-org.com/
+-   <https://mlr3book.mlr-org.com/>
 
     -   book format + with custom html vs pdf
 
@@ -77,7 +77,7 @@ Check out a site below, study the elements and take note of some thing(s) you li
 
     -   footers
 
--   https://quarto.org/docs/blog/
+-   <https://quarto.org/docs/blog/>
 
     -   left side page toc - https://quarto.org/docs/blog/posts/2022-02-17-advanced-layout/
 
@@ -85,10 +85,10 @@ Check out a site below, study the elements and take note of some thing(s) you li
 
     -   comments
 
--   ADVANCED: https://quarto.org/docs/guide/
+-   [ADVANCED: https://quarto.org/docs/guide/](https://quarto.org/docs/guide/)
 
     -   use of custom ejs templates for dense content card layout
 
--   https://crsl4.github.io/julia-workshop/
+-   <https://crsl4.github.io/julia-workshop/>
 
     -   different language (julia)
